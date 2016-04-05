@@ -1,0 +1,18 @@
+p{
+	height: 100px;
+	width: 200px;
+	text-align: left;
+	margin: 10px;
+	padding: 10px;
+}
+#dos{
+	background-color: red;
+		
+}
+#uno{
+	background-color: yellow;
+
+}
+#tres{
+	background-color: yellow;
+}
